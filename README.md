@@ -53,7 +53,6 @@ sequenceDiagram
 - PHP 8.2+
 - Composer
 - PHPUnit 11
-- GitHub Actions across PHP 8.2, 8.3, and 8.4
 
 The core is framework-agnostic on purpose. A Laravel HTTP/queue adapter can be added without moving provider or state-transition rules into controllers.
 
